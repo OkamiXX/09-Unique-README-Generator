@@ -1,12 +1,12 @@
-# Readme Generator TEST
+# OKAMIX README GENERATOR
 
 ## Github URL 🌎:
 
-['OkamiXX](https://github.com/'OkamiXX/)
+[OkamiXX](https://github.com/OkamiXX/)
 
 ## Description 📝:
 
-    My project is about generating a README file based on the user input.
+    The project is intended to generate a README.md file based on the user input.
 
 
 ## Table of Contents 🗂:
@@ -35,7 +35,7 @@ npm i inquirer
 
 ## Usage 
 
-Generate a README FILE
+The usage of this repo is to generate the README file easely for people in need and that wants this type of file ASAP!
 
 ## License 📢©️
 
@@ -47,7 +47,7 @@ Generate a README FILE
 
 ## Contributors 🥳:
 
-    Me, Myself and I
+    Me, Myself, I and GOOGLE
 
 Email Information:  okamix@gmail.com
 
@@ -57,6 +57,6 @@ Email Information:  okamix@gmail.com
 To run tests, run these commands:
 
 ```
-npm test jest
+npm text jest blah blah
 ```
   
