@@ -24,7 +24,7 @@ const questions = [
     {
         type: "input",
         name: "description",
-        message: "Describe about your project:"
+        message: "Describe your project in a few sentences:"
     },
     {
         type: "list",
@@ -35,24 +35,24 @@ const questions = [
     {
         type: "input",
         name: "dependencies",
-        message: "Any dependencies to install?",
-        default: "npm i"
+        message: "Any dependencies to install? (Please provided as shown!!)",
+        default: "npm i 'default'"
     },
     {
         type: "input",
         name: "test",
-        message: "What command should be run to run tests?",
-        default: "npm test"
+        message: "What command should be run to run tests? (Please provided as shown!!)",
+        default: "npm test 'default'"
     },
     {
         type: "input",
         name: "usage",
-        message: "What does the usage of this repo?",
+        message: "What is the usage of this repo?",
     },
     {
         type: "input",
         name: "contributors",
-        message: "Who are the contributors of this repo?",
+        message: "Who were the contributors of this repo?",
     }
 ];
 
